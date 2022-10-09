@@ -4,11 +4,11 @@ import router from './router'
 
 import './assets/main.css'
 
-const appv = createApp(App)
+const app = createApp(App)
 
-appv.use(router)
+app.use(router)
 
-appv.mount('#app')
+app.mount('#app')
 
 const { app, BrowserWindow } = require("electron");
 const path = require("path");
