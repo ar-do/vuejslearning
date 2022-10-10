@@ -2,7 +2,7 @@
   "name": "vue-project",
   "version": "0.0.0",
   "main": "main.js",
-  "authors" : "Armin Doroci",
+  "authors" : "ar-do",
   "description": "Test App",
   "scripts": {
     "dev": "vite",
